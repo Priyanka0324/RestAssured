@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-04T07:11:52Z" name="Default suite" finished-at="2022-12-04T07:11:57Z" duration-ms="4739">
+    <groups>
+    </groups>
+    <test started-at="2022-12-04T07:11:52Z" name="Default test" finished-at="2022-12-04T07:11:57Z" duration-ms="4739">
+      <class name="restGitHub.CreateRepo">
+        <test-method signature="test1()[pri:0, instance:restGitHub.CreateRepo@7d286fb6]" started-at="2022-12-04T07:11:52Z" name="test1" finished-at="2022-12-04T07:11:57Z" duration-ms="4705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- restGitHub.CreateRepo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
